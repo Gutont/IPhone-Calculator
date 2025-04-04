@@ -4,10 +4,6 @@
 
 This project is a desktop calculator application developed using Java Swing. It aims to replicate the user interface and core arithmetic functions found in the standard calculator app on iOS devices. It features a clean, dark-themed interface with distinct button styles for numbers, operators, and utility functions.
 
-**(Optional: Add a screenshot of the calculator here!)**
-<!-- ![Calculator Screenshot](path/to/your/screenshot.png) -->
-
-
 ## Features
 
 *   **Standard Arithmetic:** Addition (`+`), Subtraction (`-`), Multiplication (`×`), Division (`÷`).
