@@ -49,3 +49,10 @@ This project is a desktop calculator application developed using Java Swing. It 
 *   The layout uses `GridLayout`, so the '0' button does not span two columns like the actual iPhone calculator (which would require `GridBagLayout`).
 *   Does not include advanced scientific functions or memory features.
 *   The percentage (%) function was intentionally removed from this version.
+
+## Screenshots
+
+Here are a few glimpses of the calculator in action:
+
+**Main Interface:**
+![Main view of the Java Swing iPhone-style calculator](image.png)
