@@ -53,6 +53,4 @@ This project is a desktop calculator application developed using Java Swing. It 
 ## Screenshots
 
 Here are a few glimpses of the calculator in action:
-
-**Main Interface:**
 ![Main view of the Java Swing iPhone-style calculator](image.png)
